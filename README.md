@@ -1,2 +1,2 @@
-# Detec-o_Anomalias
+# Deteccao_Anomalias
 Desafio DIO
