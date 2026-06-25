@@ -200,6 +200,6 @@ flowchart TD
 ```
 
 ## 📚 Guia de Estudos Interativo
-[![Abrir guia](https://img.shields.io/badge/Guia%20Interativo-ML%20Fraudes-58a6ff?style=for-the-badge)](https://marinasilva.github.io/Deteccao_Anomalias/guia_ml_fraudes.html)
+[![Abrir guia](https://img.shields.io/badge/Guia%20Interativo-ML%20Fraudes-58a6ff?style=for-the-badge)](https://github.com/MarinaSSilva/Deteccao_Anomalias/blob/main/guia_ml_fraudes.html)
 
 
