@@ -75,7 +75,8 @@ Mais útil que a ROC em datasets desbalanceados. Mostra o trade-off: aumentar o 
 
 **Balanceamento de Dados:**  
 Duas abordagens implementadas:  
-Undersampling — "reduzir os normais":  
+
+__Undersampling — "reduzir os normais":__
 ```
 fraudes = df[df["Class"] == 1]
 normais = df[df["Class"] == 0].sample(n=len(fraudes), random_state=42)
