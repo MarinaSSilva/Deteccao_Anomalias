@@ -200,7 +200,3 @@ flowchart TD
     style L fill:#1d9e75,color:#fff
 ```
 
-## 📚 Guia de Estudos Interativo
-[![Abrir guia](https://img.shields.io/badge/Guia%20Interativo-ML%20Fraudes-58a6ff?style=for-the-badge)](https://github.com/MarinaSSilva/Deteccao_Anomalias/blob/main/guia_ml_fraudes.html)
-
-
